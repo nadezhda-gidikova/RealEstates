@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImotBgDataGathere", "ImotBgDataGathere\ImotBgDataGathere.csproj", "{8C4770F4-98C6-427E-A46C-5D38338AA04E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstates.ConsoleApplication", "RealEstates.ConsoleApplication\RealEstates.ConsoleApplication.csproj", "{EC867926-9976-4E30-AAA0-9D7A89ADA97C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstates.Importer", "RealEstates.Importer\RealEstates.Importer.csproj", "{5B361F8F-5612-4525-906C-02F6088C8641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstates.Models", "RealEstates.Models\RealEstates.Models.csproj", "{262525E6-525B-4CE7-BDAF-C6DBB30BA8E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstates.Services", "RealEstates.Services\RealEstates.Services.csproj", "{B1D0E307-DAA4-4154-AF6A-DD68920CE56F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstates.Data", "RealEstates.Data\RealEstates.Data.csproj", "{5B646781-9C4F-4100-AE0B-C2A1D169ECFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4770F4-98C6-427E-A46C-5D38338AA04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4770F4-98C6-427E-A46C-5D38338AA04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4770F4-98C6-427E-A46C-5D38338AA04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4770F4-98C6-427E-A46C-5D38338AA04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC867926-9976-4E30-AAA0-9D7A89ADA97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC867926-9976-4E30-AAA0-9D7A89ADA97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC867926-9976-4E30-AAA0-9D7A89ADA97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC867926-9976-4E30-AAA0-9D7A89ADA97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B361F8F-5612-4525-906C-02F6088C8641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B361F8F-5612-4525-906C-02F6088C8641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B361F8F-5612-4525-906C-02F6088C8641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B361F8F-5612-4525-906C-02F6088C8641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262525E6-525B-4CE7-BDAF-C6DBB30BA8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262525E6-525B-4CE7-BDAF-C6DBB30BA8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262525E6-525B-4CE7-BDAF-C6DBB30BA8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262525E6-525B-4CE7-BDAF-C6DBB30BA8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D0E307-DAA4-4154-AF6A-DD68920CE56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D0E307-DAA4-4154-AF6A-DD68920CE56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D0E307-DAA4-4154-AF6A-DD68920CE56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D0E307-DAA4-4154-AF6A-DD68920CE56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B646781-9C4F-4100-AE0B-C2A1D169ECFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B646781-9C4F-4100-AE0B-C2A1D169ECFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B646781-9C4F-4100-AE0B-C2A1D169ECFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B646781-9C4F-4100-AE0B-C2A1D169ECFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCBAD180-0559-4255-AB86-77B29001A45B}
+	EndGlobalSection
+EndGlobal

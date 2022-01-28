@@ -1,0 +1,17 @@
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\bin\Debug\net5.0\RealEstates.Services.deps.json
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\bin\Debug\net5.0\RealEstates.Services.dll
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\bin\Debug\net5.0\ref\RealEstates.Services.dll
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\bin\Debug\net5.0\RealEstates.Services.pdb
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\bin\Debug\net5.0\RealEstates.Data.dll
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\bin\Debug\net5.0\RealEstates.Models.dll
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\bin\Debug\net5.0\RealEstates.Data.pdb
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\bin\Debug\net5.0\RealEstates.Models.pdb
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.csproj.AssemblyReference.cache
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.AssemblyInfoInputs.cache
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.AssemblyInfo.cs
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.csproj.CopyComplete
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.dll
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\obj\Debug\net5.0\ref\RealEstates.Services.dll
+C:\Users\Nadezhda\source\repos\RealEstatesGatherer\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.pdb
